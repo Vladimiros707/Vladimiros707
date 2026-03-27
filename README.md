@@ -21,10 +21,5 @@ Computer Science Bachelor dedicated to Software Engineering and Cloud (AWS) arch
 
 ---
 
-### 📊 GitHub Stats
-![Vladimiros's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vladimiros707&show_icons=true&theme=dark)
-
----
-
 ### 📫 Let's Connect!
 - 📧 Email: vladimiros545@gmail.com
